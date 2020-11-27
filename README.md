@@ -6,7 +6,9 @@ I am familiarised with the discord python library and I'm able to integrate any 
 
 ### Contact
 ➤ **DISCORD** - PensiveBread#6159
+
 ➤ **TWITTER** - @PensiveBreadCo
+
 ➤ **Fiverr** - [Click Me](https://www.fiverr.com/inbox/pensivebread)
 
 ### Pricing
