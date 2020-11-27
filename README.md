@@ -5,6 +5,17 @@ Hey, I'm Pensive, but you can call me Samuel. I'm a Discord Bot Developer who pr
 I am familiarised with the discord python library and I'm able to integrate any bot with any service on the web with ease - even if it means having to make my own web server or API, I will go to any extent to ensure that you get the product that you paid for, even if I spend my own time or money on it.
 
 ### Contact
+
+**EMAILS:**
+
+Personal - samuel@pensivebread.co.uk
+
+Commissions - commissions@pensivebread.co.uk
+
+Enquiries - hello@pensivebread.co.uk
+
+---
+
 ➤ **DISCORD** - PensiveBread#6159
 
 ➤ **TWITTER** - @PensiveBreadCo
