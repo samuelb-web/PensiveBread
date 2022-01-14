@@ -26,15 +26,4 @@
 ### Languages
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PYTHON](https://simpleicons.org/icons/python.svg)
-## Roadmap
-- Workspace Spec Badges
-- Funding Badges
-
-## Donations
-I love Donations! They help me with projects, required hardware, and more!  
-
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x84b0934598958e6a1507e26ac1a63f71384fcbc8)](https://en.cryptobadges.io/donate/0x84b0934598958e6a1507e26ac1a63f71384fcbc8)
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/3P44apMLSALiV8yJDJdZNpmpGC1aWiowXw)](https://en.cryptobadges.io/donate/3P44apMLSALiV8yJDJdZNpmpGC1aWiowXw)  
-
-Current goals: **Nokia 2720 V**, **Bitcoin Investments**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
