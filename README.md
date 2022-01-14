@@ -19,14 +19,11 @@
 </p>
 
 ## Skills
-- [🔄🛠️] **Reverse engineering**  
-- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua  
-- [🖼️🥰] **UI/UX** design  
-- [🕹️🛠️] **Game** development *(R🟥blox Platform)*  
-- [📈💵] **Cryptocurrency Mining & Trading @ NiceHash**  
+- [📚🌐] Experience with creating and maintaining **advanced systems**  
+- [🎨] **UI Backend and Frontent** design  
+- [🛠️] **ROBLOX** Platform  
 
 ### Languages
-![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
