@@ -26,7 +26,7 @@
 ### Languages
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<img alt="PYTHON 3.8" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=python&logoColor=PYTHON 3.8"/>
+![PYTHON](https://simpleicons.org/icons/python.svg)
 ## Roadmap
 - Workspace Spec Badges
 - Funding Badges
