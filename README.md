@@ -30,4 +30,6 @@
 ![PY3.8](https://img.shields.io/badge/Python-3.8-2782DA?style=for-the-badge&logo=python&logoColor=gold)
 
 ### Projects
+
+LUA
 ![Taser](https://github-readme-stats.vercel.app/api/pin/?username=PensiveBread&repo=Taser)
