@@ -21,7 +21,8 @@
 ## Skills
 - [📚🌐] Experience with creating and maintaining **advanced systems**  
 - [🎨] **UI Backend and Frontent** design  
-- [🛠️] **ROBLOX** Platform  
+- [🛠️] Experience with the **ROBLOX** Platform  
+- [🌐] Web Developer
 
 ### Languages
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
